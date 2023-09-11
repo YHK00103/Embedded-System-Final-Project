@@ -9,7 +9,7 @@ Users can record the name of medicine and when they need to be reminded to take 
 3. Reminding  
 When the reminder time is up, raspberry pi will get the medicine information from Google sheet and use TTS to convert the reminder texts into sound.
 
-3. Checking
+3. Checking  
 After reminding the medicine-takers, raspberry pi will check if the medicines in the remindbox have been taken. If the medicines still exist, raspberry pi will remind the medicine-taksers again.
 
 ## Demo Video
